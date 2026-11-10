@@ -179,7 +179,7 @@ export const Hero: React.FC<HeroProps> = ({ onExplorePortfolio, onRequestQuote }
 
                     <div className="relative aspect-[16/10] overflow-hidden bg-slate-950">
                       <img
-                        src="/src/assets/images/portfolio_realty_1793930493918.jpg"
+                        src="/assets/images/portfolio_realty_1793930493918.jpg"
                         alt="Simulação de site imobiliário no computador desktop pela Levon Web"
                         referrerPolicy="no-referrer"
                         className="w-full h-full object-cover object-top"
@@ -208,7 +208,7 @@ export const Hero: React.FC<HeroProps> = ({ onExplorePortfolio, onRequestQuote }
                       </div>
                       <div className="relative aspect-[4/3] bg-slate-950">
                         <img
-                          src="/src/assets/images/portfolio_bistro_1793930493990.jpg"
+                          src="/assets/images/portfolio_bistro_1793930493990.jpg"
                           alt="Simulação em tablet de site gastronômico pela Levon Web"
                           referrerPolicy="no-referrer"
                           className="w-full h-full object-cover"
@@ -233,7 +233,7 @@ export const Hero: React.FC<HeroProps> = ({ onExplorePortfolio, onRequestQuote }
                       </div>
                       <div className="relative aspect-[9/16] bg-slate-950">
                         <img
-                          src="/src/assets/images/portfolio_barbershop_1793930479401.jpg"
+                          src="/assets/images/portfolio_barbershop_1793930479401.jpg"
                           alt="Simulação em celular smartphone de site de barbearia pela Levon Web"
                           referrerPolicy="no-referrer"
                           className="w-full h-full object-cover"

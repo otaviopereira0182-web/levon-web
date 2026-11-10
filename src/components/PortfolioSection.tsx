@@ -43,7 +43,7 @@ export const PortfolioSection: React.FC<PortfolioSectionProps> = ({ onSelectProj
       category: newCategory,
       shortDescription: newDescription.trim() || 'Website estratégico personalizado com foco em credibilidade e conversão.',
       fullDescription: newDescription.trim() || 'Projeto arquitetado para ilustrar soluções visuais, desempenho ágil e experiência intuitiva.',
-      image: '/src/assets/images/portfolio_realty_1793930493918.jpg',
+      image: '/assets/images/portfolio_realty_1793930493918.jpg',
       tags: ['Design Exclusivo', 'Mobile First', 'SEO Estruturado'],
       features: ['Interface moderna e responsiva', 'Canais de conversão direta', 'Estrutura otimizada'],
       colorPalette: [

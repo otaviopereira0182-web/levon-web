@@ -125,7 +125,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     category: 'servicos',
     shortDescription: 'Plataforma para agendamento online de cortes e barboterapia com identidade vintage contemporânea.',
     fullDescription: 'Desenvolvimento de uma experiência digital para barbearias tradicionais de alto padrão. O projeto conta com vitrine de serviços, tabela de preços, fotos dos barbeiros e fluxo intuitivo para seleção de dia e horário diretamente integrado ao WhatsApp da recepção.',
-    image: '/src/assets/images/portfolio_barbershop_1793930479401.jpg',
+    image: '/assets/images/portfolio_barbershop_1793930479401.jpg',
     tags: ['Agendamento Online', 'Cardápio de Serviços', 'Integração WhatsApp', 'Design Dark'],
     features: [
       'Sistema de seleção de barbeiro e horário',
@@ -148,7 +148,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     category: 'institucional',
     shortDescription: 'Portal médico para apresentação de tratamentos odontológicos avançados e triagem de consultas.',
     fullDescription: 'Conceito criado para clínicas odontológicas que buscam transmitir higiene, acolhimento e tecnologia de ponta. Apresenta corpo clínico com registro profissional (CRO), fotos da estrutura e formulário de pré-agendamento com privacidade adequada.',
-    image: '/src/assets/images/portfolio_dental_1793930493110.jpg',
+    image: '/assets/images/portfolio_dental_1793930493110.jpg',
     tags: ['Saúde & Odonto', 'Corpo Clínico', 'Pré-agendamento', 'Design Clean'],
     features: [
       'Apresentação de especialidades (Implantes, Ortodontia, Estética)',
@@ -171,7 +171,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     category: 'comercial',
     shortDescription: 'Cardápio interativo e sistema de pedidos diretos para pizzaria artesanal napolitana.',
     fullDescription: 'Projeto de alta apetitosidade visual para pizzarias artesanais. Permite ao cliente navegar pelo cardápio ilustrado, conferir ingredientes, montar o pedido e enviá-lo pronto para o WhatsApp da cozinha com endereço e forma de pagamento.',
-    image: '/src/assets/images/portfolio_pizzeria_1793930508561.jpg',
+    image: '/assets/images/portfolio_pizzeria_1793930508561.jpg',
     tags: ['Cardápio Digital', 'Delivery Direto', 'Sem Taxas de App', 'Visual Gastronômico'],
     features: [
       'Cardápio dividido em Tradicionais, Especiais e Bebidas',
@@ -194,7 +194,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     category: 'comercial',
     shortDescription: 'Vitrine imobiliária com busca por bairro, tipologia, tour visual e agendamento de visitas.',
     fullDescription: 'Website sofisticado com navegação fluida para compradores e investidores do mercado imobiliário. Focado em fotografia arquitetônica, plantas baixas e filtros precisos por localização, metragem e faixa de valor.',
-    image: '/src/assets/images/portfolio_realty_1793930493918.jpg',
+    image: '/assets/images/portfolio_realty_1793930493918.jpg',
     tags: ['Filtro de Imóveis', 'Alto Padrão', 'Galeria Arquitetônica', 'Lead Qualificado'],
     features: [
       'Filtros por tipo (Cobertura, Casa em Condomínio, Apartamento)',
@@ -217,7 +217,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     category: 'landing-page',
     shortDescription: 'Experiência imersiva para reservas de mesas, menu degustação sazonal e eventos corporativos.',
     fullDescription: 'Conceito voltado a restaurantes contemporâneos com atmosfera intimista. Prioriza a fotografia autoral dos pratos, carta de vinhos assinada por sommelier e integração com sistema de reserva de mesas com confirmação via mensagem.',
-    image: '/src/assets/images/portfolio_bistro_1793930493990.jpg',
+    image: '/assets/images/portfolio_bistro_1793930493990.jpg',
     tags: ['Reserva de Mesa', 'Menu Degustação', 'Carta de Vinhos', 'Atmosfera Noturna'],
     features: [
       'Widget de reserva de mesa com seleção de convidados e turno',
@@ -240,7 +240,7 @@ export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
     category: 'institucional',
     shortDescription: 'Presença digital sóbria e elegante para banca jurídica especializada em direito corporativo.',
     fullDescription: 'Website institucional desenvolvido sob estrita observância das normas do Provimento da OAB sobre publicidade jurídica. Foco na transmissão de solidez técnica, clareza nas áreas de atuação e canal seguro para consulta preliminar.',
-    image: '/src/assets/images/portfolio_lawfirm_1793930508741.jpg',
+    image: '/assets/images/portfolio_lawfirm_1793930508741.jpg',
     tags: ['Direito Corporativo', 'Soberania Visual', 'Em conformidade OAB', 'Artigos & Insights'],
     features: [
       'Detalhamento das áreas de atuação jurídica',
